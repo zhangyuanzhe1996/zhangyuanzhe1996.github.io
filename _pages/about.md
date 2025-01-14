@@ -165,7 +165,7 @@ Jun 2021
 
 Expertise and Skills
 ------
-• Research, Machine Learning, Data Mining, Blockchain, Web 3.0, DeFi, Dex, Sharding, Python, C++, MAT-LAB, SQL, Fluent English.
+• Research, Machine Learning, Data Mining, Blockchain, Web 3.0, DeFi, Dex, Sharding, Python, C++, MATLAB, SQL, Fluent English.
 
 Personal Summary
 ------
