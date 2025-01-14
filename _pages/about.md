@@ -15,6 +15,7 @@ I am excited about the opportunities for collaboration and advancement in my fie
 
 Educations
 ======
+
 The University of Sydney, School of Computer Science, Ph.D.
 ---------------
 
@@ -49,6 +50,7 @@ Sep 2014 - Jun 2018
 
 Work experience
 ======
+
 Monash University, Teaching Assistant
 ---
 
@@ -73,6 +75,7 @@ Sep 2020 - Dec 2020
 
 Publications (First-author Papers)
 ------
+
 • TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems
 ----
 
