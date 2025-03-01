@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Yuanzhe Zhang, a Ph.D. student of computer science at Sydney University advised by A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow), Prof. Shirui Pan (ARC Future Fellow), and Prof. Zhiyong Wan. 
+Hello! I’m Yuanzhe Zhang, a Ph.D. student of computer science at Sydney University advised by A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow). 
 
 My academic interests center around blockchain scalability, sharded blockchains, decentralized finance, decentralized exchange, large-scale graph processing, convex optimization, graph partition, data mining.
 
