@@ -81,7 +81,14 @@ Publications (First-author Papers)
 
 (CORE ranking-A*) Yuanzhe Zhang, Shirui Pan, Jiangshan Yu. IEEE ICDE 2023
 
-- We proposed a transaction allocation scheme, TxAllo, for reducing cross-shard transactions and optimizing workload balance in sharded blockchain systems. It investigates a novel graph partition direction to cluster frequent interacted addresses into the same shard and reduces cross-shard transactions from 98% to 17%.
+- We proposed a transaction allocation scheme, TxAllo, for reducing cross-shard transactions and optimizing workload balance in sharded blockchain systems. This paper first formalizes the blockchain problem into a novel graph partition problem. Then, we propose a new algorithm clusters frequent interacted addresses into the same shard and reduces cross-shard transactions from 98% to 17%.
+
+• Distributed Account Allocation Framework and Algorithm for Blockchain Sharding
+-----
+
+(CORE ranking-A, under review) Submitted to IEEE ICDCS 2025
+
+- We proposed Mosaic, a distributed account allocation framework to parallel run allocation algorithm. Upon Mosaic, we further propose Pilot, a lightweight distributed algorithm, to guide the allocation. The efficiency is boosted by 104, while maintaining a similar accuracy to the state-of-the-art baselines.
   
 • Correlation-aware Next Basket Recommendation using Graph Attention Networks
 -----
@@ -95,19 +102,13 @@ Publications (First-author Papers)
 
 (CORE ranking-A) Yuanzhe Zhang, Ling Luo, Yang Wang, Zhiyong Wang. PAKDD 2020
 
-- We proposed FCP Filter, a Bayesian nonparametric framework for dynamic customer behavior prediction and noise filtering.
+- We proposed a Bayesian nonparametric framework for customer behavior prediction and noise filtering.
   
-• Distributed account allocation framework and algorithm in blockchain sharding
+  
+• Accelerate aggregated routing in decentralized exchange (Preparing for Submission)
 -
 
-(CORE ranking-A, under review) Submitted to IEEE ICDCS 2025
-
-- We proposed Mosaic, a universal distributed account allocation framework to parallel run allocation algorithm. Upon Mosaic, we further propose Pilot, a lightweight distributed algorithm, to guide the allocation. The efficiency is boosted by 104, while maintaining a similar accuracy.
-  
-• Accelerate aggregated routing in decentralized exchange (Drafting)
--
-
-- We investigated the leading Dex, Uniswap’s swapping routing mechanism, as well as the academic literature on the routing problem. We propose mechanisms to accelerate routing algorithm in swapping queries and develop a prediction model. This provides a new dimension of evaluation for the Dex aggregator/router/pathfinder as well as the trade-off between efficiency and optimality.
+- We propose mechanisms to accelerate the routing algorithm in swapping queries and develop a prediction model. This provides a new dimension of evaluation for the DEX aggregator/router/pathfinder as well as the trade-off between efficiency and optimality.
 - 
 
 
@@ -140,6 +141,20 @@ International Conference on Neural Information Processing (ICONIP 2020),
 and Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020).
 
 
+*Ongoing Research Projects (Led by Me)
+------
+Blockchain × AI Agents:
+-
+• AI Agents in Decentralized Ecosystem
+- With the rapid advancements in large language models (LLMs), the concept of AI agents has emerged as a burgeoning area of research within artificial intelligence research and application domains. Concurrently, the integration of AI agents into decentralized systems has fueled the growth of numerous startups and attracted substantial investment. We are exploring the decentralization of AI agent, specifically 1) how to co-own the AI agent, 2) how to integrate the AI agent into existing blockchain tools, e.g., DAO, smart contracts and DeFiand 3) how to train and deploy the large model off-chain and store essential information on-chain.
+
+Blockchain Sharding × Graph Machine Learning:
+-
+• A Fast Co-prediction-clustering Algorithm for Precise Allocation of Large-scale Addresses in Sharded Blockchain.
+- The previous allocation methods simply utilize historical transaction patterns to instead of future transactions, ignoring the transaction dynamics. We propose a unified co-prediction-clustering algorithm for the allocation problem in blockchain sharding.
+• Smart Contract Multi-input Multi-output Transactions Allocation in Sharded Blockchain.
+- Multi-input multi-output transactions are common due to the existence of smart contracts. However, existing allocation methods in sharding can not tackle with them appropriately. We propose a fast hypergraph partition algorithm for the allocation problem in blockchain sharding.
+
 **Honors and Scholarships**
 
 Full Scholarship, Faculty of Engineering, The University of Sydney (Approx. 320,000 AUD) 
@@ -169,5 +184,4 @@ Expertise and Skills
 
 Personal Summary
 ------
-I am a senior Ph.D. candidate at The University of Sydney, specializing in the intersection of blockchain and
-machine learning. I am passionate about the future of ‘Blockchain × AI’ and excited to contribute my expertise to a collaborative team dedicated to transformative innovations. ;)
+I am a senior Ph.D. candidate at The University of Sydney, specializing in the intersection of blockchain and machine learning. I am passionate about the future of ‘Blockchain × AI’ and excited to contribute my expertise to a collaborative team dedicated to transformative innovations and impactful applications. ;)
