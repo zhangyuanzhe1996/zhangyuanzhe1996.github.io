@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "zyz1.jpg"
-  name             : "Yuanzhe Zhang(张远喆)"
+  name             : "Yuanzhe Zhang\n(张远喆)"
   pronouns         : # example: "she/her"  
   bio              : "a Ph.D student at the University of Sydney"
   location         : "Sydney"
