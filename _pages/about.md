@@ -7,45 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Yuanzhe Zhang, a Ph.D. student of computer science at Sydney University advised by A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow).
+Hello! I’m Yuanzhe Zhang, a Ph.D. student of computer science at the University of Sydney advised by A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow).
 
 My academic interests center around blockchain scalability, sharded blockchains, decentralized finance, decentralized exchange, large-scale graph processing, convex optimization, graph partition, data mining.
 
 I am excited about the opportunities for collaboration and advancement in my field, and am eager to continue learning and contributing to the research community. If you are willing to learn more about my research or explore potential opportunities for collaboration, I would be honored if you could kindly reach out to me. Thank you for visiting!
-
-Educations
-======
-
-The University of Sydney, School of Computer Science, Ph.D.
----------------
-
-Jun 2021 - Feb 2025
-
-• Thesis title: Accelerate Blockchain Transaction Processing with Data-Driven Solutions.
-
-• Research Interests: blockchain scalability, sharded blockchains, decentralized finance, decentralized exchange, large-scale graph processing, convex optimization, graph partition, data mining.
-
-• Major: Computer Science
-
-• Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow), Prof. Shirui Pan (ARC Future Fellow)
-
-The University of Sydney, School of Computer Science, M.Phil. (Research)
------------------------------------------------------------
-
-Sep 2018 - Jun 2020
-
-• Research Interests: data mining, graph neural networks, non-parametric Bayesian models.
-
-• Major: Computer Science
-
-• Supervisor: Prof. Zhiyong Wang
-
-East China Normal University, School of Mathematics, B.Sc.
------------------------------
-
-Sep 2014 - Jun 2018
-
-• Major: Mathematics and Applied Mathematics
 
 
 Work experience
