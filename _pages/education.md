@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ![Sydney](../images/sydney2.png)The University of Sydney, Ph.D. 
+-
 in Computer Science
 -
 Jun 2021 – Feb 2025
@@ -20,6 +21,7 @@ Jun 2021 – Feb 2025
 
 
 ![Sydney](../images/sydney2.png)The University of Sydney, M.Phil. (Research) 
+-
 in Computer Science
 -
 Sep 2018 – Jun 2020
@@ -30,6 +32,7 @@ Sep 2018 – Jun 2020
 
 
 ![East](../images/east2.png)East China Normal University, B.Sc. 
+-
 in Mathematics and Applied Mathematics
 -
 Sep 2014 – Jun 2018
