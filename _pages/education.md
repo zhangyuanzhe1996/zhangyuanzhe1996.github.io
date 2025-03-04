@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-![Sydney](../images/sydney2.png)The University of Sydney, Ph.D. 
+![Sydney](../images/sydney2.png)The University of Sydney,
 -
-in Computer Science
+ Ph.D. in Computer Science
 -
 Jun 2021 – Feb 2025
 
@@ -20,9 +20,9 @@ Jun 2021 – Feb 2025
 • Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
 
 
-![Sydney](../images/sydney2.png)The University of Sydney, M.Phil. (Research) 
+![Sydney](../images/sydney2.png)The University of Sydney,  
 -
-in Computer Science
+M.Phil. (Research) in Computer Science
 -
 Sep 2018 – Jun 2020
 
@@ -31,8 +31,8 @@ Sep 2018 – Jun 2020
 • Supervisor: Prof. Zhiyong Wang
 
 
-![East](../images/east2.png)East China Normal University, B.Sc. 
+![East](../images/east2.png)East China Normal University, 
 -
-in Mathematics and Applied Mathematics
+B.Sc. in Mathematics and Applied Mathematics
 -
 Sep 2014 – Jun 2018
