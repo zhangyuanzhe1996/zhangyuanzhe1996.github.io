@@ -10,4 +10,7 @@ main:
   
   - title: "Education"
     url: /education/
+
+   - title: "Work experience"
+    url: /work/
   
