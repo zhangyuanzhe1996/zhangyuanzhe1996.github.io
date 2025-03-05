@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computer science"
+title: "Yuanzhe Zhang @ USYD"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 
-Welcome to my homepage!
+**Welcome to my homepage!**
 
-I am Yuanzhe Zhang, a final-year Ph.D. candidate at the University of Sydney, specializing in the intersection of blockchain and machine learning. I am passionate about the future of '**Blockchain × AI**' and eager to contribute my expertise to a collaborative team aiming for ground-breaking research or impactful real-world applications.
+I am Yuanzhe Zhang, a final-year Ph.D. candidate at the University of Sydney, specializing in the intersection of blockchain and machine learning. I am passionate about the future of '**Blockchain × AI**' and eager to contribute my expertise to a collaborative team pursuing groundbreaking research or impactful real-world applications.
 
-My Ph.D. degree, conducted at the School of Computer Science, is supervised by A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow), and Prof. Shirui Pan (ARC Future Fellow), with my thesis titled 'Enhance Blockchain Scalability through State-aware Optimization' currently under examination.
+My Ph.D. degree, at the School of Computer Science, is supervised by A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow), and Prof. Shirui Pan (ARC Future Fellow), with the thesis titled 'Enhance Blockchain Scalability through State-aware Optimization' currently under examination. In particular, my research interests include, but are not limited to, sharded blockchains, decentralized finance (DeFi), decentralized exchanges (DEX), large-scale graph machine learning, optimization, and data mining.
 
-In particular, my research interests include but are not limited to sharded blockchains, decentralized finance (DeFi), decentralized exchanges (DEX), large-scale graph machine learning, optimization, and data mining.
+I am actively seeking academic positions worldwide and welcome opportunities for collaboration from all backgrounds. If you're interested in working together or discussing potential research opportunities, feel free to reach out!
 
-I am actively seeking academic positions worldwide and welcome opportunities for collaboration. If you're interested in working together or discussing potential research opportunities, feel free to reach out!
+
 
 
 Honors and Scholarships
