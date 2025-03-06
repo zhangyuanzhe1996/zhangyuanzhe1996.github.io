@@ -17,6 +17,20 @@ My Ph.D. degree, at the School of Computer Science, is supervised by A. Prof. Ji
 I am actively seeking academic positions worldwide and welcome opportunities for collaboration from all backgrounds. If you're interested in working together or discussing potential research opportunities, feel free to reach out!
 
 
+Education
+-
+
+**-![Sydney](../images/SYD1.png)The University of Sydney**, Jun 2021 – Feb 2025
+
+Ph.D. in Computer Science
+
+• Thesis: Accelerating Blockchain Transaction Processing with Data-Driven Solutions.
+
+• Focus: Blockchain scalability, sharded blockchains, decentralized finance, large-scale graph processing.
+
+• Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
+
+
 
 
 Honors and Scholarships
