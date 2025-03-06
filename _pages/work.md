@@ -15,7 +15,7 @@ Jul 2022 – Jan 2023
 
 • Teaching and assessment for postgraduate course titled ‘Introduction to Blockchain’.
 
-![UTS](../images/UTS1.png)University of Technology Sydney
+![UTS](../images/UTS3.png)University of Technology Sydney
 -
 
 **Research Assistant**
