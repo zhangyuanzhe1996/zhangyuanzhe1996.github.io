@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Monash University
+![MNS](../images/MNS.png)Monash University
 -
 
 **Teaching Assistant**
@@ -15,7 +15,7 @@ Jul 2022 – Jan 2023
 
 • Teaching and assessment for postgraduate course titled ‘Introduction to Blockchain’.
 
-University of Technology Sydney
+![UTS](../images/UTS.png)University of Technology Sydney
 -
 
 **Research Assistant**
@@ -24,7 +24,7 @@ Sep 2020 – Feb 2021
 
 • Developed predictive models to forecast real-time passenger counts of platforms for Sydney Trains.
 
-Sydney Polytechnic Institute
+![SPI](../images/SPI.png)Sydney Polytechnic Institute
 -
 
 **Course Developer**
