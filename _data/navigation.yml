@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: /publication/
     
-  - title: "Work Experiences"
+  - title: "Work Experience"
     url: /work/
   
-  - title: "Ongoing Researches"
-    url: /ongoing-researches/
+  - title: "Ongoing Research"
+    url: /ongoing/
 
   - title: "Academic Activities"
     url: /academic/
