@@ -22,22 +22,22 @@ Blockchain Sharding × Graph Machine Learning:
 Data Mining:
 -
 
-＞　**• Correlation-aware Next Basket Recommendation using Graph Attention Networks**
+> **• Correlation-aware Next Basket Recommendation using Graph Attention Networks**
 
-＞　(CORE ranking-A) **Yuanzhe Zhang**, Ling Luo, Jianjia Zhang et al.
+> (CORE ranking-A) **Yuanzhe Zhang**, Ling Luo, Jianjia Zhang et al.
 
-＞　The 27th International Conference on Neural Information Processing (ICONIP2020)
+> The 27th International Conference on Neural Information Processing (ICONIP2020)
 
-＞　We developed an end-to-end model using graph attention networks to predict the next shopping basket by leveraging item correlations.
+> We developed an end-to-end model using graph attention networks to predict the next shopping basket by leveraging item correlations.
 
 
-**• FCP Filter: A Dynamic Clustering-Prediction Framework for Customer Behavior**
+> **• FCP Filter: A Dynamic Clustering-Prediction Framework for Customer Behavior**
 
-(CORE ranking-A) **Yuanzhe Zhang**, Ling Luo, Yang Wang, Zhiyong Wang.
+> (CORE ranking-A) **Yuanzhe Zhang**, Ling Luo, Yang Wang, Zhiyong Wang.
 
-Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020)
+> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020)
 
-- We proposed a Bayesian nonparametric framework for customer behavior prediction and noise filtering.
+> - We proposed a Bayesian nonparametric framework for customer behavior prediction and noise filtering.
 
 
 **Tips:**
