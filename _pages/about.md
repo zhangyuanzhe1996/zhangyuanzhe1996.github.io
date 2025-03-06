@@ -21,11 +21,11 @@ I am actively seeking academic positions worldwide and welcome opportunities for
 Education
 =
 
--![Sydney](../images/SYD1.png)The University of Sydney, Jun 2021 – Feb 2025
+- ![Sydney](../images/SYD1.png)The University of Sydney, Jun 2021 – Feb 2025
 
-  -　Ph.D. in Computer Science
+  - Ph.D. in Computer Science
 
-  -　Thesis: Accelerating Blockchain Transaction Processing with Data-Driven Solutions.
+  - Thesis: Accelerating Blockchain Transaction Processing with Data-Driven Solutions.
 
   - Focus: Blockchain scalability, sharded blockchains, decentralized finance, large-scale graph processing.
 
