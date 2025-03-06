@@ -10,7 +10,7 @@ redirect_from:
 • Program Committee Member
 -
 
-[The 7th CRYPTO VALLEY Conference on Blockchain Technology (CVC 2025, Switzerland). ](https://cryptovalleyconference.com/call-for-papers)
+The 7th CRYPTO VALLEY Conference on Blockchain Technology ([CVC 2025, Switzerland](https://cryptovalleyconference.com/call-for-papers))
 
 • Peer Reviewer
 -
