@@ -18,9 +18,11 @@ I am actively seeking academic positions worldwide and welcome opportunities for
 
 
 Education
--
+=
 
-**-![Sydney](../images/SYD1.png)The University of Sydney**, Jun 2021 – Feb 2025
+**-![Sydney](../images/SYD1.png)The University of Sydney**, 
+-
+Jun 2021 – Feb 2025
 
 Ph.D. in Computer Science
 
@@ -31,7 +33,9 @@ Ph.D. in Computer Science
 • Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
 
 
-**-![Sydney](../images/SYD1.png)The University of Sydney**, Sep 2018 – Jun 2020
+**-![Sydney](../images/SYD1.png)The University of Sydney**, 
+-
+Sep 2018 – Jun 2020
 
  M.Phil. (Research) in Computer Science
 
@@ -40,7 +44,9 @@ Ph.D. in Computer Science
  • Supervisor: Prof. Zhiyong Wang
 
 
-**-![East](../images/east2.png)East China Normal University**, Sep 2014 – Jun 2018
+**-![East](../images/east2.png)East China Normal University**, 
+-
+Sep 2014 – Jun 2018
 
 B.Sc. in Mathematics and Applied Mathematics
 
