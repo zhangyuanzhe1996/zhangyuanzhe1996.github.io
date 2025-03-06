@@ -23,7 +23,7 @@ Blockchain Sharding × Graph Machine Learning:
   
 **• Smart Contract Multi-input Multi-output Transactions Allocation in Sharded Blockchain.**
   
--Multi-input multi-output transactions are common due to the existence of smart contracts. However, existing allocation methods in sharding can not tackle with them appropriately. We propose a fast hypergraph partition algorithm for the allocation problem in blockchain sharding.
+- Multi-input multi-output transactions are common due to the existence of smart contracts. However, existing allocation methods in sharding can not tackle with them appropriately. We propose a fast hypergraph partition algorithm for the allocation problem in blockchain sharding.
 
 Blockchain Sharding × Graph Machine Learning:
 -
