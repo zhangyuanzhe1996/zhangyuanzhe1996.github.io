@@ -17,12 +17,11 @@ My Ph.D. degree, at the School of Computer Science, is supervised by A. Prof. Ji
 I am actively seeking academic positions worldwide and welcome opportunities for collaboration from all backgrounds. If you're interested in working together or discussing potential research opportunities, feel free to reach out!
 
 
+
 Education
 =
 
-**-![Sydney](../images/SYD1.png)The University of Sydney**, 
--
-Jun 2021 – Feb 2025
+**-![Sydney](../images/SYD1.png)The University of Sydney**, Jun 2021 – Feb 2025
 
 Ph.D. in Computer Science
 
@@ -33,9 +32,7 @@ Ph.D. in Computer Science
 • Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
 
 
-**-![Sydney](../images/SYD1.png)The University of Sydney**, 
--
-Sep 2018 – Jun 2020
+**-![Sydney](../images/SYD1.png)The University of Sydney**, Sep 2018 – Jun 2020
 
  M.Phil. (Research) in Computer Science
 
@@ -44,17 +41,17 @@ Sep 2018 – Jun 2020
  • Supervisor: Prof. Zhiyong Wang
 
 
-**-![East](../images/huad.png)East China Normal University**, 
--
-Sep 2014 – Jun 2018
+**-![East](../images/east2.png)East China Normal University**, Sep 2014 – Jun 2018
 
 B.Sc. in Mathematics and Applied Mathematics
+
 
 
 Honors and Scholarships
 =
 
 Faculty of Engineering Scholarship (2024), Postgraduate Travel Fund (2023), Research Scholarship (2021), International Postgraduate Scholarship (2021), University-wide Scholarship (Top 2%, 2021).
+
 
 
 Expertise and Skills
