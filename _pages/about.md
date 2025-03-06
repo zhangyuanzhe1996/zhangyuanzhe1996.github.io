@@ -23,7 +23,7 @@ Education
 
 - **![Sydney](../images/SYD1.png)The University of Sydney**, Jun 2021 – Feb 2025
 
-  - Ph.D. in Computer Science
+  - **Ph.D.** in Computer Science
 
   - Thesis: Accelerating Blockchain Transaction Processing with Data-Driven Solutions.
 
@@ -34,7 +34,7 @@ Education
 
 - **![Sydney](../images/SYD1.png)The University of Sydney**, Sep 2018 – Jun 2020
 
-  - M.Phil. (Research) in Computer Science
+  - **M.Phil. (Research)** in Computer Science
 
   - Focus: Data mining, graph neural networks, non-parametric Bayesian models.
  
@@ -43,7 +43,7 @@ Education
 
 - **![East](../images/east2.png)East China Normal University**, Sep 2014 – Jun 2018
 
-  - B.Sc. in Mathematics and Applied Mathematics
+  - **B.Sc.** in Mathematics and Applied Mathematics
 
 
 
