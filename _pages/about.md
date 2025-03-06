@@ -50,7 +50,15 @@ Education
 Honors and Scholarships
 =
 
-Faculty of Engineering Scholarship (2024), Postgraduate Travel Fund (2023), Research Scholarship (2021), International Postgraduate Scholarship (2021), University-wide Scholarship (Top 2%, 2021).
+• Faculty of Engineering Scholarship (2024)
+
+• Postgraduate Travel Fund (2023)
+
+• Research Scholarship (2021)
+
+• International Postgraduate Scholarship (2021)
+
+• University-wide Scholarship (Top 2%, 2021)
 
 
 
