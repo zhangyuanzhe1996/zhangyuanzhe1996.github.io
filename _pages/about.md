@@ -12,7 +12,7 @@ redirect_from:
 
 I am Yuanzhe Zhang, a final-year Ph.D. candidate at the University of Sydney, specializing in the intersection of blockchain and machine learning. I am passionate about the future of '**Blockchain × AI**' and eager to contribute my expertise to a collaborative team pursuing groundbreaking research or impactful real-world applications.
 
-My Ph.D. degree, at the School of Computer Science, is supervised by [A. Prof. Jiangshan Yu (ARC DECRA Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html), A. Prof. Lijun Chang (ARC Future Fellow), and Prof. Shirui Pan (ARC Future Fellow), with the thesis titled 'Enhance Blockchain Scalability through State-aware Optimization' currently under examination. In particular, my research interests include, but are not limited to, sharded blockchains, decentralized finance (DeFi), decentralized exchanges (DEX), large-scale graph machine learning, optimization, and data mining.
+My Ph.D. degree, at the School of Computer Science, is supervised by [A. Prof. Jiangshan Yu (ARC DECRA Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html), [A. Prof. Lijun Chang (ARC Future Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/lijun-chang.html), and [Prof. Shirui Pan (ARC Future Fellow)](https://experts.griffith.edu.au/37935-shirui-pan), with the thesis titled 'Enhance Blockchain Scalability through State-aware Optimization' currently under examination. In particular, my research interests include, but are not limited to, sharded blockchains, decentralized finance (DeFi), decentralized exchanges (DEX), large-scale graph machine learning, optimization, and data mining.
 
 I am actively seeking academic positions worldwide and welcome opportunities for collaboration from all backgrounds. If you're interested in working together or discussing potential research opportunities, feel free to reach out!
 
@@ -29,7 +29,7 @@ Ph.D. in Computer Science
 
 • Focus: Blockchain scalability, sharded blockchains, decentralized finance, large-scale graph processing.
 
-• Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
+• Supervisors: [A. Prof. Jiangshan Yu (ARC DECRA Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html), [A. Prof. Lijun Chang (ARC Future Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/lijun-chang.html) and [Prof. Shirui Pan (ARC Future Fellow)](https://experts.griffith.edu.au/37935-shirui-pan)
 
 
 **-![Sydney](../images/SYD1.png)The University of Sydney**, Sep 2018 – Jun 2020
@@ -38,7 +38,7 @@ Ph.D. in Computer Science
 
  • Focus: Data mining, graph neural networks, non-parametric Bayesian models.
  
- • Supervisor: Prof. Zhiyong Wang
+ • Supervisor: [Prof. Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html)
 
 
 **-![East](../images/east2.png)East China Normal University**, Sep 2014 – Jun 2018
