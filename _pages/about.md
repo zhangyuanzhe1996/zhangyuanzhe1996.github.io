@@ -44,7 +44,7 @@ Sep 2018 – Jun 2020
  • Supervisor: Prof. Zhiyong Wang
 
 
-**-![East](../images/east2.png)East China Normal University**, 
+**-![East](../images/huad.png)East China Normal University**, 
 -
 Sep 2014 – Jun 2018
 
