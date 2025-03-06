@@ -52,13 +52,13 @@ B.Sc. in Mathematics and Applied Mathematics
 
 
 Honors and Scholarships
--
+=
 
 Faculty of Engineering Scholarship (2024), Postgraduate Travel Fund (2023), Research Scholarship (2021), International Postgraduate Scholarship (2021), University-wide Scholarship (Top 2%, 2021).
 
 
 Expertise and Skills
--
+=
 
 • Research Areas: Blockchain, AI, Machine Learning, Data Mining, Web 3.0, DeFi, DEX, Sharding, AI Agents.
 
