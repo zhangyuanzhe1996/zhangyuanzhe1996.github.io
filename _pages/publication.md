@@ -7,38 +7,37 @@ redirect_from:
   - /resume
 ---
 
-![Sydney](../images/sydney2.png)The University of Sydney,
+Blockchain Sharding × Graph Machine Learning:
 -
 
-Ph.D. in Computer Science
+**• TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems**
+
+(CORE ranking-A*) **Yuanzhe Zhang**, Shirui Pan, Jiangshan Yu.
+
+The 39th IEEE International Conference on Data Engineering (ICDE 2023)
+
+- We proposed a transaction allocation scheme, TxAllo, for reducing cross-shard transactions and optimizing workload balance in sharded blockchain systems. This paper first formalizes the blockchain problem into a novel graph partition problem. Then, we propose a new algorithm clusters frequent interacted addresses into the same shard and reduces cross-shard transactions from 98% to 17%.
+
+
+Data Mining:
 -
 
-Jun 2021 – Feb 2025
+**• Correlation-aware Next Basket Recommendation using Graph Attention Networks**
 
-• Thesis: Accelerating Blockchain Transaction Processing with Data-Driven Solutions.
+(CORE ranking-A) **Yuanzhe Zhang**, Ling Luo, Jianjia Zhang et al.
 
-• Focus: Blockchain scalability, sharded blockchains, decentralized finance, large-scale graph processing.
+The 27th International Conference on Neural Information Processing (ICONIP2020)
 
-• Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
-
-
-![Sydney](../images/sydney2.png)The University of Sydney,
--
-
-M.Phil. (Research) in Computer Science
--
-
-Sep 2018 – Jun 2020
-
-• Focus: Data mining, graph neural networks, non-parametric Bayesian models.
-
-• Supervisor: Prof. Zhiyong Wang
+- We developed an end-to-end model using graph attention networks to predict the next shopping basket by leveraging item correlations.
 
 
-![East](../images/east2.png)East China Normal University,
--
+**• FCP Filter: A Dynamic Clustering-Prediction Framework for Customer Behavior**
 
-B.Sc. in Mathematics and Applied Mathematics
--
+(CORE ranking-A) **Yuanzhe Zhang**, Ling Luo, Yang Wang, Zhiyong Wang.
 
-Sep 2014 – Jun 2018
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020)
+
+- We proposed a Bayesian nonparametric framework for customer behavior prediction and noise filtering.
+
+
+You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=GmhjohUAAAAJ&hl=en).
