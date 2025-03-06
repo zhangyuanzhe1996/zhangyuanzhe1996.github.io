@@ -31,6 +31,18 @@ Ph.D. in Computer Science
 • Supervisors: A. Prof. Jiangshan Yu (ARC DECRA Fellow), A. Prof. Lijun Chang (ARC Future Fellow) and Prof. Shirui Pan (ARC Future Fellow)
 
 
+**-![Sydney](../images/SYD1.png)The University of Sydney**, Sep 2018 – Jun 2020
+
+ M.Phil. (Research) in Computer Science
+
+ • Focus: Data mining, graph neural networks, non-parametric Bayesian models.
+ 
+ • Supervisor: Prof. Zhiyong Wang
+
+
+**-![East](../images/east2.png)East China Normal University**, Sep 2014 – Jun 2018
+
+B.Sc. in Mathematics and Applied Mathematics
 
 
 Honors and Scholarships
