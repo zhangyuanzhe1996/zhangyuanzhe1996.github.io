@@ -10,7 +10,7 @@ redirect_from:
 • Program Committee Member
 -
 
-The 7th CRYPTO VALLEY Conference on Blockchain Technology (CVC 2025, Switzerland). (https://cryptovalleyconference.com/call-for-papers)
+[The 7th CRYPTO VALLEY Conference on Blockchain Technology (CVC 2025, Switzerland). ](https://cryptovalleyconference.com/call-for-papers)
 
 • Peer Reviewer
 -
@@ -20,7 +20,7 @@ Reviewed for leading conferences and journals, including VLDB (2024, 2023), DSN 
 • Oral Presentations
 -
 
-Presented at:
+**Presented at:**
 
 – Professional Conferences: Protocol Labs ConsensusDays (2023), IFIP 10.4 Dependable Computing and Fault Tolerance Annual Meeting (2023)
 
