@@ -39,7 +39,3 @@ Data Mining:
 
   - We proposed a Bayesian nonparametric framework for customer behavior prediction and noise filtering.
 
-
-**Tips:**
-
-You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=GmhjohUAAAAJ&hl=en).
