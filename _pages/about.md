@@ -21,20 +21,20 @@ I am actively seeking academic positions worldwide and welcome opportunities for
 Education
 =
 
-- **![Sydney](../images/SYD1.png)The University of Sydney**, Jun 2021 – Feb 2025
+- **![Sydney](../images/SYD1.png)The University of Sydney**, Jun 2021 – Jun 2025
 
   - **Ph.D.** in Computer Science
 
-  - Thesis: Accelerating Blockchain Transaction Processing with Data-Driven Solutions.
+  - Thesis: Enhance Blockchain Scalability through State-aware Optimization.
 
-  - Focus: Blockchain scalability, sharded blockchains, decentralized finance, large-scale graph processing.
+  - Focus: Blockchain scalability, sharded blockchains, decentralized finance, graph machine learning.
 
   - Supervisors: [A. Prof. Jiangshan Yu (ARC DECRA Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html), [A. Prof. Lijun Chang (ARC Future Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/lijun-chang.html) and [Prof. Shirui Pan (ARC Future Fellow)](https://experts.griffith.edu.au/37935-shirui-pan)
 
 
-- **![Sydney](../images/SYD1.png)The University of Sydney**, Sep 2018 – Jun 2020
+- **![Sydney](../images/SYD1.png)The University of Sydney**, Oct 2018 – Oct 2020
 
-  - **M.Phil. (Research)** in Computer Science
+  - **M.Phil.** in Computer Science
 
   - Focus: Data mining, graph neural networks, non-parametric Bayesian models.
  
@@ -50,15 +50,7 @@ Education
 Honors and Scholarships
 =
 
-• Faculty of Engineering Scholarship (2024)
-
-• Postgraduate Travel Fund (2023)
-
-• Research Scholarship (2021)
-
-• International Postgraduate Scholarship (2021)
-
-• University-wide Scholarship (Top 2%, 2021)
+• USYD Faculty of Engineering Scholarship (2024), Postgraduate Travel Fund (2023), Research Scholarship (2021), International Postgraduate Scholarship (2021), Monash Central Graduate Scholarship (Top 2%, 2021)
 
 
 
@@ -69,4 +61,4 @@ Expertise and Skills
 
 • Programming Languages and Tools: Python, C++, MATLAB, SQL.
 
-• Soft Skills: Fluent in English, Academic Writing, Presentation, Collaboration.
+• Skills: Fluent in English, Academic Writing, Public Presentation, Group Collaboration.
