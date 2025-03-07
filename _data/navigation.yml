@@ -7,12 +7,14 @@
 main:
   - title: "Publications"
     url: /publication/
+
+      
+  - title: "Ongoing Research"
+    url: /ongoing/
     
   - title: "Work Experience"
     url: /work/
-  
-  - title: "Ongoing Research"
-    url: /ongoing/
+
 
   - title: "Academic Activities"
     url: /academic/
