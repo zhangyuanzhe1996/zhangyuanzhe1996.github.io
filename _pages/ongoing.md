@@ -13,11 +13,6 @@ Ongoing research led by me:
 
 
 
-  - **Yuanzhe Zhang**, Shirui Pan, Jiangshan Yu.
-
-
-
-
 
 - **Blockchain Sharding × Graph Machine Learning:**
   
