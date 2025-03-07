@@ -8,36 +8,37 @@ redirect_from:
 ---
 
 
-
-
-**Ongoing research led by me:**
-
-Blockchain Sharding × Graph Machine Learning:
+Ongoing research led by me:
 -
 
 
-**• Distributed Account Allocation Framework and Algorithm for Blockchain Sharding.** (Submitted and under review) 
 
-
-**• Fast Co-prediction-clustering for Precise Allocation of Large-scale Addresses in Sharded Blockchain.** (Preparing for submission)
-
-
-**• Smart Contract Multi-input Multi-output Transactions Allocation in Sharded Blockchain.** (Preparing for submission)
+  - **Yuanzhe Zhang**, Shirui Pan, Jiangshan Yu.
 
 
 
-Blockchain × AI Agents:
--
+
+
+- **Blockchain Sharding × Graph Machine Learning:**
   
-**• AI Agents in Decentralized Ecosystem** (Preparing for submission)
+  - **Distributed Account Allocation Framework and Algorithm for Blockchain Sharding.** (Submitted and under review) 
+
+  - **Fast Co-prediction-clustering for Precise Allocation of Large-scale Addresses in Sharded Blockchain.** (Preparing for submission)
+
+  - **Smart Contract Multi-input Multi-output Transactions Allocation in Sharded Blockchain.** (Preparing for submission)
 
 
-**Decentralized Exchange × Convex Optimization:**
--
 
-**• Accelerate Aggregated Routing in Decentralized Exchanges** (Submitted and under review)
+- **Blockchain × AI Agents:**
 
-**• Predict Swapping Success Rate in Decentralized Exchanges** (Preparing for submission)
+  - **AI Agents in Decentralized Ecosystem** (Preparing for submission)
+
+
+- **Decentralized Exchange × Convex Optimization:**
+
+  - **Accelerate Aggregated Routing in Decentralized Exchanges** (Submitted and under review)
+
+  - **Predict Swapping Success Rate in Decentralized Exchanges** (Preparing for submission)
 
 
 
