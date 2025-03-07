@@ -15,12 +15,15 @@ The 7th CRYPTO VALLEY Conference on Blockchain Technology ([CVC 2025, Switzerlan
 • Peer Reviewer
 -
 
-Reviewed for leading conferences and journals, including VLDB (2024, 2023), DSN (2024), TDSC (2024), and ICDM (2020).
+Reviewed for top-tier conferences and journals, including: 
+
+– International Conference on Very Large Data Bases (VLDB 2024, 2023), 
+- International Conference on Dependable Systems and Networks (DSN 2024),
+- IEEE Transactions on Dependable and Secure Computing (TDSC 2024),
+- International Conference on Data Mining (ICDM 2020).
 
 • Oral Presentations
 -
-
-**Presented at:**
 
 – Professional Conferences: Protocol Labs ConsensusDays (2023), IFIP 10.4 Dependable Computing and Fault Tolerance Annual Meeting (2023)
 
