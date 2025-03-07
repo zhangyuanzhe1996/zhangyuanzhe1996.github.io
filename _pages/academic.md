@@ -25,7 +25,7 @@ Reviewed for top-tier conferences and journals, including:
 • Public Presentations
 -
 
-– Professional Conferences: ([Protocol Labs ConsensusDays (2023)](https://www.youtube.com/playlist?list=PLxN6L-h3wFfsRKLCj4I8xKeKjy9OL-EY6)), ([IFIP 10.4 Dependable Computing and Fault Tolerance Annual Meeting (2023)](https://www.ifipnews.org/ifip-wg-10-4-meets-in-melbourne/))
+– Professional Conferences: [Protocol Labs ConsensusDays (2023)](https://www.youtube.com/playlist?list=PLxN6L-h3wFfsRKLCj4I8xKeKjy9OL-EY6), [IFIP 10.4 Dependable Computing and Fault Tolerance Annual Meeting (2023)](https://www.ifipnews.org/ifip-wg-10-4-meets-in-melbourne/)
 
 – Australasian Conferences: Australasian Database Conference (ADC 2023)
 
