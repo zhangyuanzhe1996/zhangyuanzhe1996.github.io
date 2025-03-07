@@ -16,7 +16,6 @@ The 7th CRYPTO VALLEY Conference on Blockchain Technology ([CVC 2025, Switzerlan
 -
 
 Reviewed for top-tier conferences and journals, including: 
-
 – International Conference on Very Large Data Bases (VLDB 2024, 2023), 
 - International Conference on Dependable Systems and Networks (DSN 2024),
 - IEEE Transactions on Dependable and Secure Computing (TDSC 2024),
