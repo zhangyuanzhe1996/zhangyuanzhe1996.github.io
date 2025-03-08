@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Services"
+title: "Academic Activities"
 permalink: /academic/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ The 7th CRYPTO VALLEY Conference on Blockchain Technology ([CVC 2025, Switzerlan
 • Peer Reviewer
 -
 
-Reviewed for top-tier conferences and journals, including: 
+Including top-tier conferences and journals: 
 
 
 
