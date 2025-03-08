@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "First-author Publications:"
 permalink: /publication/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-First-author Publications:
--
+
 
 - **[TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems](https://ieeexplore.ieee.org/document/10184617/)** at the 39th IEEE International Conference on Data Engineering (ICDE 2023, CORE ranking-A*)
 
