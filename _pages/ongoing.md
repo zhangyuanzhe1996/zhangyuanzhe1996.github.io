@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Ongoing Research"
+title: "Ongoing research led by me:"
 permalink: /ongoing/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
-Ongoing research led by me:
--
 
 
 
