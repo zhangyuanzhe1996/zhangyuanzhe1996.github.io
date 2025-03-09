@@ -61,4 +61,4 @@ Expertise and Skills
 
 • Programming Languages and Tools: Python, C++, MATLAB, SQL.
 
-• Skills: Fluent in English, Academic Writing, Public Presentation, Team Collaboration.
+• Skills: Fluent in English, Academic Writing, Public Presentation, Team Collaboration, University Teaching.
