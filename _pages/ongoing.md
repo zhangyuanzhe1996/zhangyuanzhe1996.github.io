@@ -12,8 +12,6 @@ redirect_from:
 
 
 - **Blockchain Sharding × Graph Machine Learning:**
-  
-  - **Distributed Account Allocation Framework and Algorithm for Blockchain Sharding.** (Submitted and under review) 
 
   - **Fast Co-prediction-clustering for Precise Allocation of Large-scale Addresses in Sharded Blockchain.** (Preparing for submission)
 
