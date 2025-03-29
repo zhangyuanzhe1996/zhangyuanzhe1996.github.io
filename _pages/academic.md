@@ -11,6 +11,8 @@ redirect_from:
 -
 
 The 7th CRYPTO VALLEY Conference on Blockchain Technology ([CVC 2025](https://cryptovalleyconference.com/call-for-papers))
+
+
 IEEE International Conference on Distributed Ledger Technologies ([IEEE ICDLT](https://icdlt.ieeepunesection.org/))
 
 
