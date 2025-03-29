@@ -6,7 +6,36 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+- **[Mosaic: Client-driven Account Allocation Framework in Sharded Blockchains](https://icdcs2025.icdcs.org/)** at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025, CORE ranking-A)
 
+  - **Yuanzhe Zhang**, Shirui Pan, Jiangshan Yu.
+
+  - Recent account allocation studies in sharded blockchains are typically miner-driven, requiring miners to
+perform global optimizations for all accounts to enhance system-
+wide performance. This forces each miner to maintain a complete
+copy of the entire ledger, resulting in significant storage, communication, and computation overhead.
+In this work, we explore an alternative research direction
+by proposing Mosaic, the first client-driven framework for
+distributed, lightweight local optimization. Rather than relying
+on miners to allocate all accounts, Mosaic enables clients
+to independently execute a local algorithm to determine their
+residing shards. Mosaic naturally
+addresses key limitations of miner-driven approaches, including
+the lack of miner incentives and the significant overhead. While
+clients are flexible to adopt any algorithm for shard allocation,
+we design and implement a reference algorithm, Pilot, to guide
+them. Clients execute Pilot to maximize their own benefits, such
+as reduced transaction fees and confirmation latency.
+We implement and evaluate
+Pilot against state-of-the-art miner-driven global optimization
+solutions. The results demonstrate that Mosaic significantly
+enhances computational efficiency, achieving a four-order-of-
+magnitude reduction in computation time, with the reduced input
+data size from 1.44 GB to an average of 228.66 bytes per account.
+Despite these efficiency gains, Pilot introduces only about a 5%
+increase in the cross-shard ratio and maintains approximately
+98% of the system throughput, demonstrating a minimal trade-
+off in overall effectiveness.
 
 
 - **[TxAllo: Dynamic Transaction Allocation in Sharded Blockchain Systems](https://ieeexplore.ieee.org/document/10184617/)** at the 39th IEEE International Conference on Data Engineering (ICDE 2023, CORE ranking-A*)
