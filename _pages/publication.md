@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-- **[Mosaic: Client-driven Account Allocation Framework in Sharded Blockchains](https://icdcs2025.icdcs.org/)** at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025, CORE ranking-A)
+- **[Mosaic: Client-driven Account Allocation Framework in Sharded Blockchains](https://arxiv.org/abs/2504.10846)** at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025, CORE ranking-A)
 
   - **Yuanzhe Zhang**, Shirui Pan, Jiangshan Yu.
 
