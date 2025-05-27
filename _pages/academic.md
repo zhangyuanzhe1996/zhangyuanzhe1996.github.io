@@ -22,11 +22,13 @@ IEEE International Conference on Distributed Ledger Technologies ([IEEE ICDLT](h
 Including top-tier conferences and journals: 
 
 
-
+- The Network and Distributed System Security Symposium (NDSS 2026),
 - International Conference on Very Large Data Bases (VLDB 2024, 2023), 
 - International Conference on Dependable Systems and Networks (DSN 2024),
-- IEEE Transactions on Dependable and Secure Computing (TDSC 2024),
 - International Conference on Data Mining (ICDM 2020).
+
+- IEEE Transactions on Dependable and Secure Computing (TDSC),
+- IEEE Transactions on Information Forensics and Security (TIFS).
 
 • Public Presentations
 -
