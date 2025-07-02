@@ -50,7 +50,7 @@ Education
 Honors and Scholarships
 =
 
-• USYD Faculty of Engineering Scholarship (2024), Postgraduate Travel Fund (2023), Research Scholarship (2021), International Postgraduate Scholarship (2021), Monash Central Graduate Scholarship (Top 2%, 2021)
+• USYD Faculty of Engineering Career Advancement Award (2025), USYD Faculty of Engineering Scholarship (2024), Postgraduate Travel Fund (2023), Research Scholarship (2021), International Postgraduate Scholarship (2021), Monash Central Graduate Scholarship (Top 2%, 2021)
 
 
 
