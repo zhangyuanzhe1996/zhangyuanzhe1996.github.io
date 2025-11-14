@@ -10,7 +10,7 @@ redirect_from:
 
 **Welcome to my homepage!**
 
-I am Yuanzhe Zhang, a final-year Ph.D. candidate at the University of Sydney, specializing in the intersection of blockchain and machine learning. I am passionate about the future of '**Blockchain × AI**' and eager to contribute my expertise to a collaborative team pursuing groundbreaking research or impactful real-world applications.
+I am Yuanzhe Zhang. I received my Ph.D. degree at the University of Sydney, specializing in the intersection of blockchain and machine learning. I am passionate about the future of Blockchain and eager to contribute my expertise to a collaborative team pursuing groundbreaking research or impactful real-world applications.
 
 My Ph.D. degree, at the School of Computer Science, is supervised by [A. Prof. Jiangshan Yu (ARC DECRA Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html), [A. Prof. Lijun Chang (ARC Future Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/lijun-chang.html), and [Prof. Shirui Pan (ARC Future Fellow)](https://experts.griffith.edu.au/37935-shirui-pan), with the thesis titled 'Enhance Blockchain Scalability through State-aware Optimization' currently under examination. In particular, my research interests include, but are not limited to, sharded blockchains, decentralized finance (DeFi), decentralized exchanges (DEX), large-scale graph machine learning, optimization, and data mining.
 
