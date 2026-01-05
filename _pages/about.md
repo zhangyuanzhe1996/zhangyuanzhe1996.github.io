@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuanzhe Zhang @ USYD"
+title: "Yuanzhe Zhang @ NTU, Singapore"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am Yuanzhe Zhang. I am currently a Research Fellow at NTU, Singapore, speciali
 
 My Ph.D. degree, at the School of Computer Science, is supervised by [A. Prof. Jiangshan Yu (ARC DECRA Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jiangshan-yu.html), [A. Prof. Lijun Chang (ARC Future Fellow)](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/lijun-chang.html), and [Prof. Shirui Pan (ARC Future Fellow)](https://experts.griffith.edu.au/37935-shirui-pan), with the thesis titled 'Enhance Blockchain Scalability through State-aware Optimization'. In particular, my research interests include, but are not limited to, sharded blockchains, decentralized finance (DeFi), decentralized exchanges (DEX), optimization and large-scale graph machine learning.
 
-I am welcome opportunities for collaboration from all backgrounds. If you're interested in working together or discussing potential research opportunities, feel free to reach out (Yuanzhe.zhang@ntu.edu.sg)!
+I welcome opportunities for collaboration from all backgrounds. If you're interested in working together or discussing potential research opportunities, feel free to reach out (Yuanzhe.zhang@ntu.edu.sg)!
 
 
 
