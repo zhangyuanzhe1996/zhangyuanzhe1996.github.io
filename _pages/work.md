@@ -6,6 +6,17 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+![MNS](../images/NTUlogo.png)Nanyang Technological University, Singapore
+-
+
+**Research Fellow**
+
+Nov 2025 – Now
+
+• Conducting research on Decentralized Identity.
+
+
+
 ![MNS](../images/MNS.png)Monash University
 -
 
