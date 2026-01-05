@@ -24,11 +24,11 @@ author:
   avatar           : "zyz1.jpg"
   name             : "Yuanzhe Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "a Ph.D. student at the University of Sydney"
-  location         : "Sydney, NSW, AU"
-  employer         : "The University of Sydney"
+  bio              : "Research Fellow at NTU, Singapore"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University, Singapore"
   uri              : # URL
-  email            : "yzha9691@uni.sydney.edu.au" 
+  email            : "yuanzhe.zhang@ntu.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
