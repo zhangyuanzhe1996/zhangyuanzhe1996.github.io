@@ -38,3 +38,20 @@ Including top-tier conferences and journals:
 - Australasian Conferences: Australasian Database Conference (ADC 2023)
 
 - International Conferences: IEEE International Conference on Data Engineering (ICDE 2023), International Conference on Neural Information Processing (ICONIP 2020), Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020)
+
+• Honors and Scholarships
+-
+
+- IEEE TEMS Blockchain and DLT TC Outstanding PhD Dissertation Award (2026)
+
+- USYD Faculty of Engineering Career Advancement Award (2025)
+
+- USYD Faculty of Engineering Scholarship (2024)
+
+- Postgraduate Travel Fund (2023)
+
+- Research Scholarship (2021)
+
+- International Postgraduate Scholarship (2021)
+
+- Monash University-wide Graduate Scholarship (Top 2%) (2021)
