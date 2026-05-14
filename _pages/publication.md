@@ -6,6 +6,20 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+- **[SoK: Blockchain Agent-to-Agent Payments](https://arxiv.org/abs/2604.03733)** at *Blockchain: Research and Applications* (BCRA, JCR Q1)
+
+  - **Yuanzhe Zhang**, Yuexin Xiang, Yuchen Lei, et al.
+
+  - This work systematizes blockchain-based payment infrastructures for Agent-to-Agent (A2A) ecosystems. We study A2A payments through a four-stage lifecycle of discovery, authorization, execution, and accounting, and analyze how existing mechanisms support or fail to support trustworthy autonomous payment interactions. The study identifies key trust and security challenges, including weak intent binding, misuse under valid authorization, payment-service decoupling, and limited accountability. It further argues that A2A payment systems require end-to-end compositional correctness, where the user's intent, authorized action, executed payment, and delivered service outcome remain consistently aligned across the full payment lifecycle.
+
+
+
+
+
+
+
 - **[Mosaic: Client-driven Account Allocation Framework in Sharded Blockchains](https://arxiv.org/abs/2504.10846)** at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025, CORE ranking-A)
 
   - **Yuanzhe Zhang**, Shirui Pan, Jiangshan Yu.
