@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "First-author Publications:"
+title: "Selected Publications:"
 permalink: /publication/
 author_profile: true
 redirect_from:
