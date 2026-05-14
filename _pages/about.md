@@ -57,8 +57,8 @@ Honors and Scholarships
 Expertise and Skills
 =
 
-• Research Areas: Blockchain, AI, Machine Learning, Data Mining, Web 3.0, DeFi, DEX, Sharding, AI Agents.
+• **Research Areas:** Blockchain systems, distributed ledgers, decentralized finance, digital assets, decentralized identity, privacy-preserving systems, AI agents, graph machine learning, and digital asset compliance.
 
-• Programming Languages and Tools: Python, C++, MATLAB, SQL.
+• **Programming Languages and Tools:** Python, C++, MATLAB, SQL.
 
-• Skills: Fluent in English, Academic Writing, Public Presentation, Team Collaboration, University Teaching.
+• **Professional Skills:** Fluent in English, academic writing, public presentation, team collaboration, and university teaching.
