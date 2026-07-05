@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+• Session Chair
+-
+    
+International Conference on Blockchain Research and Applications ([BCRA 2026]
+(https://bcra-conf.seedsbit.com/))
+
+
 • Program Committee Member
 -
     
