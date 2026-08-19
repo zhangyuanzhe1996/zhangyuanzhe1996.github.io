@@ -10,8 +10,7 @@ redirect_from:
 • Session Chair
 -
     
-International Conference on Blockchain Research and Applications ([BCRA 2026]
-(https://bcra-conf.seedsbit.com/))
+International Conference on Blockchain Research and Applications ([BCRA 2026](https://bcra-conf.seedsbit.com/))
 
 
 • Program Committee Member
