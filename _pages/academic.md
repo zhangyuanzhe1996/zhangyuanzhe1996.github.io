@@ -17,10 +17,9 @@ International Conference on Blockchain Research and Applications ([BCRA 2026]
 • Program Committee Member
 -
 
-The 32nd IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2026)(https://www.cloud-conf.net/icpads2026/cfp-research-paper.html)
+The 32nd IEEE International Conference on Parallel and Distributed Systems ([IEEE ICPADS 2026](https://www.cloud-conf.net/icpads2026/cfp-research-paper.html))
     
-International Conference on Blockchain Research and Applications ([BCRA 2026]
-(https://bcra-conf.seedsbit.com/))
+International Conference on Blockchain Research and Applications ([BCRA 2026](https://bcra-conf.seedsbit.com/))
 
 The CRYPTO VALLEY Conference on Blockchain Technology ([CVC 2025](https://cryptovalleyconference.com/call-for-papers))
 
